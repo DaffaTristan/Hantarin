@@ -1,0 +1,22 @@
+﻿.bg {
+    background: rgb(255,230,111);
+    background: linear-gradient(90deg, rgba(255,230,111,1) 0%, rgba(255,244,193,1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container-form {
+    background: rgba(255,255,255,1);
+    border: 1px solid #000000;
+    margin-top: 25vh;
+    padding: 30px 40px;
+    border-radius: 20px;
+}
+
+.top-buffer {
+    margin-top: 20px;
+}
+.form-rounded {
+    border-radius: 1rem;
+}
